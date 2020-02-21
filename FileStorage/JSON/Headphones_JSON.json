@@ -1,0 +1,10 @@
+{
+  "manufacturer": "COWIN",
+  "model": "E7",
+  "generalPowerConsumption": 5,
+  "batteryAmount": 100,
+  "earCoupling": "Inside-ear",
+  "frequency": 20,
+  "connectionType": "Bluetooth",
+  "isCharged": true
+}

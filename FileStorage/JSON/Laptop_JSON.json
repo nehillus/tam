@@ -1,0 +1,12 @@
+{
+  "manufacturer": "ASUS ",
+  "model": "TUF Gaming FX505DY-BQ024",
+  "generalPowerConsumption": 8,
+  "batteryAmount": 100,
+  "screenSize": 15.60,
+  "operatingSystem": "Windows 10",
+  "processor": "Intel Core i5 7700",
+  "gbRam": 16,
+  "hardDriveSize": 1000,
+  "isCharged": true
+}

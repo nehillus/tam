@@ -1,0 +1,12 @@
+{
+  "manufacturer": "Samsung",
+  "model": "Galaxy A50",
+  "generalPowerConsumption": 4,
+  "batteryAmount": 100,
+  "displaySize": 6.40,
+  "operatingSystem": "Android 9.0 Pie",
+  "cameraResolution": 25,
+  "processor": "Exynos 9610",
+  "gbRam": 4,
+  "isCharged": true
+}
